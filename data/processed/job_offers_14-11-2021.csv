@@ -1,0 +1,94 @@
+name;company;technology;job;location_city;location_country;salary_low;salary_high;salary_currency;salary_average;is_senior
+data scientist;Kontomatik Sp. z o.o.;python;data analyst;warszawa;POL;8 000;12 000;PLN;10000.0;False
+data analyst;Ringier Axel Springer Tech;;data analyst;zdalna;N/A;9 000;13 000;PLN;11000.0;False
+senior data mining analyst;McKinsey & Company;;data analyst;wrocław;POL;9 000;14 000;PLN;11500.0;True
+data analyst;Devire;;data analyst;zdalna;N/A;8 000;16 000;PLN;12000.0;False
+data analyst;Globitell Wholesale Sp. z o.o. Sp. K.;;data analyst;warszawa;POL;6 000;9 000;PLN;7500.0;False
+data business analyst (data science);Lingaro;;data analyst;zdalna;N/A;11 760;20 160;PLN;15960.0;False
+senior data analyst, marketing;Brainly;;data analyst;zdalna;N/A;8 000;16 000;PLN;12000.0;True
+senior product data analyst;No Fluff Jobs;;data analyst;zdalna;N/A;12 000;18 000;PLN;15000.0;True
+data analyst;Smartpatient;;data analyst;zdalna;N/A;11 000;17 500;PLN;14250.0;False
+senior .net engineer;AVENGA;.net;data analyst;warszawa;POL;25 200;26 880;PLN;26040.0;True
+tester / data analyst;DPDgroup IT Solutions sp. z o.o.;;data analyst;warszawa;POL;5 500;11 000;PLN;8250.0;False
+senior javascript developer;Sigma IT Polska;javascript;data analyst;zdalna;N/A;17 000;19 500;PLN;18250.0;True
+data analyst powerbi/tableau;QBICO Sp. z o.o.;;data analyst;zdalna;N/A;7 000;11 000;PLN;9000.0;False
+data team leader;Datafeedwatch;;data analyst;kraków;POL;12 000;17 000;PLN;14500.0;False
+product data analyst;Packhelp;;data analyst;warszawa;POL;11 000;14 000;PLN;12500.0;False
+data analyst;mthree;python;data analyst;zdalna;N/A;5 416;8 333;PLN;6874.5;False
+data analyst;Infinite Lambda Kft.;;data analyst;zdalna;N/A;11 430;17 146;PLN;14288.0;False
+data engineer;Insight (Division of nexergroup.com);;data engineer;zdalna;N/A;16 000;26 200;PLN;21100.0;False
+digital data engineer;Link Group;sql;data engineer;zdalna;N/A;20 000;29 000;PLN;24500.0;False
+data engineer;Ework Group;python;data engineer;zdalna;N/A;34 944;38 976;PLN;36960.0;False
+dwh/big data engineer;Sii Polska;;data engineer;warszawa;POL;21 000;26 250;PLN;23625.0;False
+senior software engineer | big data;Adform Sp. z o.o.;scala;data engineer;zdalna;N/A;20 000;24 000;PLN;22000.0;True
+software engineer (scala) | big data;Adform Sp. z o.o.;scala;data engineer;zdalna;N/A;18 000;21 000;PLN;19500.0;False
+data engineer;Altimetrik;;data engineer;zdalna;N/A;19 000;24 000;PLN;21500.0;False
+senior scala big data engineer;VirtusLab;scala;data engineer;zdalna;N/A;18 000;25 000;PLN;21500.0;True
+data engineer (blockchain analytics);Ramp Network;bigquery;data engineer;warszawa;POL;18 000;24 000;PLN;21000.0;False
+bi / data engineer;Link Group;;data engineer;zdalna;N/A;18 000;21 000;PLN;19500.0;False
+bi developer/data engineer;Objectivity;;data engineer;zdalna;N/A;17 600;22 600;PLN;20100.0;False
+data engineer;Link Group;;data engineer;warszawa;POL;15 120;18 480;PLN;16800.0;False
+data engineer;dyvenia;python;data engineer;kraków;POL;14 000;20 000;PLN;17000.0;False
+data engineer;Unit8 SA;;data engineer;wrocław;POL;16 000;24 000;PLN;20000.0;False
+senior cloud data engineer;IHS Markit;sql;data engineer;zdalna;N/A;13 000;18 000;PLN;15500.0;True
+data engineer;Netguru;;data engineer;zdalna;N/A;11 040;15 800;PLN;13420.0;False
+data engineer;Avanade Poland;sql;data engineer;warszawa;POL;10 000;19 000;PLN;14500.0;False
+senior data engineer;IIIT;aws;data engineer;zdalna;N/A;25 000;34 000;PLN;29500.0;True
+data engineer;Orange Polska;python;data engineer;warszawa;POL;9 000;18 000;PLN;13500.0;False
+software engineer - data science;Franklin Templeton;;data engineer;zdalna;N/A;10 916;18 083;PLN;14499.5;False
+senior big data engineer;Devire;spark;data engineer;zdalna;N/A;26 000;31 000;PLN;28500.0;True
+junior online data engineer;Sales & More;sql;data engineer;warszawa;POL;4 000;8 000;PLN;6000.0;False
+data engineer;Hoist Finance AB (oddział w Polsce);sql;data engineer;wrocław;POL;10 500;12 500;PLN;11500.0;False
+remote mid / senior data engineer;Addepto;python;data engineer;zdalna;N/A;13 500;26 880;PLN;20190.0;True
+data engineer with snowflake;Lingaro;python;data engineer;zdalna;N/A;16 800;21 840;PLN;19320.0;False
+java developer/ big data engineer;OpenX;java;data engineer;kraków;POL;16 000;22 000;PLN;19000.0;False
+data engineer;AVENGA;spark;data engineer;zdalna;N/A;20 160;30 240;PLN;25200.0;False
+senior iot data engineer;Acaisoft Poland Sp. z.o.o;python;data engineer;zdalna;N/A;20 000;25 000;PLN;22500.0;True
+mid iot data engineer;Acaisoft Poland Sp. z.o.o;python;data engineer;zdalna;N/A;12 000;19 000;PLN;15500.0;False
+data engineer (remote);SoftKraft;python;data engineer;zdalna;N/A;16 000;20 000;PLN;18000.0;False
+data engineer;Dynatrace Sp. z o.o.;sql;data engineer;gdańsk;POL;14 000;23 000;PLN;18500.0;False
+junior cloud data engineer – akademia;Onwelo S.A.;;data engineer;warszawa;POL;3 700;4 000;PLN;3850.0;False
+data engineer;Avanade Poland;azure;data engineer;zdalna;N/A;13 440;21 000;PLN;17220.0;False
+data engineer - sql developer with etl;AVENGA;sql;data engineer;wrocław;POL;19 320;21 840;PLN;20580.0;False
+python data engineer;Devire Sp. z o.o.;python;data engineer;zdalna;N/A;21 840;28 560;PLN;25200.0;False
+data engineer;Devire Sp. z o.o.;spark;data engineer;zdalna;N/A;21 840;28 560;PLN;25200.0;False
+senior data engineer (marketing);Brainly;sql;data engineer;zdalna;N/A;15 000;23 000;PLN;19000.0;True
+data science/ ml engineer;Link Group;;data engineer;zdalna;N/A;18 000;30 000;PLN;24000.0;False
+unix data engineer;Ework Group;;data engineer;zdalna;N/A;23 520;25 200;PLN;24360.0;False
+senior big data engineer;Allegro;spark;data engineer;poznań;POL;16 500;22 500;PLN;19500.0;True
+big data engineer;Allegro;spark;data engineer;poznań;POL;12 500;17 000;PLN;14750.0;False
+data engineer;Centrum Badawczo-Rozwojowe Invicta;;data engineer;sopot;POL;12 000;16 000;PLN;14000.0;False
+data engineer;Hitachi Energy;;data engineer;kraków;POL;6 000;9 000;PLN;7500.0;False
+data engineer;Ework Group;;data engineer;wrocław;POL;16 000;18 000;PLN;17000.0;False
+bi data engineer;Link Group;;data engineer;zdalna;N/A;15 120;18 480;PLN;16800.0;False
+data engineer;Egnyte;python;data engineer;zdalna;N/A;13 000;16 000;PLN;14500.0;False
+azure data engineer - remote;Direct Communication Sp. z o.o.;azure;data engineer;zdalna;N/A;18 000;30 000;PLN;24000.0;False
+data engineer;McKinsey & Company;;data engineer;wrocław;POL;10 000;19 000;PLN;14500.0;False
+data engineer with python;Lingaro;python;data engineer;zdalna;N/A;13 440;20 160;PLN;16800.0;False
+senior test engineer (data/cloud);Spyrosoft;java;data engineer;zdalna;N/A;14 784;19 656;PLN;17220.0;True
+remote mid big data engineer;Lite e-Commerce;python;data engineer;zdalna;N/A;14 000;18 500;PLN;16250.0;False
+remote senior big data engineer;RTB House;java;data engineer;zdalna;N/A;21 800;33 600;PLN;27700.0;True
+big data engineer;Coinfirm;spark;data engineer;zdalna;N/A;15 000;20 000;PLN;17500.0;False
+data engineer (etl);Onwelo S.A.;;data engineer;zdalna;N/A;13 650;17 850;PLN;15750.0;False
+cloud data engineer (gcp);Onwelo S.A.;python;data engineer;zdalna;N/A;13 650;22 050;PLN;17850.0;False
+data engineer (scala/spark);Scalac;data engineering;data engineer;zdalna;N/A;15 000;25 000;PLN;20000.0;False
+data software engineer;Dun & Bradstreet;aws lambda;data engineer;zdalna;N/A;22 000;27 000;PLN;24500.0;False
+azure data engineer;Onwelo S.A.;python;data engineer;zdalna;N/A;15 750;19 950;PLN;17850.0;False
+data engineer;ProData Consult;;data engineer;zdalna;N/A;25 200;30 240;PLN;27720.0;False
+lead data engineer;Avis Budget Group BSC;;data engineer;zdalna;N/A;12 701;17 781;PLN;15241.0;False
+data engineer;Trax Retail;;data engineer;budapest;HUN;13 971;19 051;PLN;16511.0;False
+data scientist;Kontomatik Sp. z o.o.;python;data scientist;warszawa;POL;8 000;12 000;PLN;10000.0;False
+data scientist/mathematical modeller;IDEA team within Narodowe Centrum Badań Jądrowych;;data scientist;warszawa;POL;7 000;13 000;PLN;10000.0;False
+data scientist;Devire;python;data scientist;zdalna;N/A;8 000;16 000;PLN;12000.0;False
+data scientist;MindMics.com;python;data scientist;kraków;POL;8 000;15 000;PLN;11500.0;False
+data scientist;Orange Polska;python;data scientist;warszawa;POL;9 000;18 000;PLN;13500.0;False
+senior data mining analyst;McKinsey & Company;;data scientist;wrocław;POL;9 000;14 000;PLN;11500.0;True
+remote mid / senior data scientist;Addepto;python;data scientist;zdalna;N/A;11 760;23 400;PLN;17580.0;True
+data scientist (nlp);No Fluff Jobs;nlp;data scientist;zdalna;N/A;14 000;22 000;PLN;18000.0;False
+senior data scientist;MIM Solutions;python;data scientist;zdalna;N/A;15 000;23 000;PLN;19000.0;True
+senior data scientist;IIIT;python;data scientist;zdalna;N/A;20 000;28 000;PLN;24000.0;True
+data scientist;Syncron Sp. z o.o.;python;data scientist;zdalna;N/A;15 700;18 800;PLN;17250.0;False
+(senior) data scientist;Pearson;python;data scientist;poznań;POL;12 500;25 000;PLN;18750.0;True
+mid data scientist;LAIT;python;data scientist;warszawa;POL;15 000;18 000;PLN;16500.0;False
+data scientist;Onwelo S.A.;;data scientist;zdalna;N/A;13 650;17 850;PLN;15750.0;False
+senior data scientist;SEON Technologies Kft.;;data scientist;budapest;HUN;14 606;19 051;PLN;16828.5;True
